@@ -1,6 +1,4 @@
-# organoALura
-
-Projeto desenvolvido durante o curso de React - Desenvolvendo com Javascript.
+# Website Organo - Alura
 
 <h1>Projeto do curso de React - Desenvolvendo com Javascript - Alura.</h1>
 
